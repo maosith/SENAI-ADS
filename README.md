@@ -6,4 +6,4 @@ git chechkout main
 
 Essa branch contem alguns fluxogramas sobre aulas passadas
 Minha 'main' branch agora é a Java-ScriptPhase.
-É básicamente dessa forma que você pode navegar no meu projeto usando CLI.
+É básicamente dessa forma que você pode navegar no meu projeto usando CLI. :)
