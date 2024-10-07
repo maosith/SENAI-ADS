@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+div{
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#Foto{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+}
+
+#Nome{
+    width: 700px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-weight: bold;
+
+}
+
+#Conteudo{
+    width: 100vw;
+    display: inline-block
+}
